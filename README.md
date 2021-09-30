@@ -1,3 +1,7 @@
+# Warning
+
+See Issue [#3](https://github.com/ghsttwn/howl-teal/issues/3) for more info about the future of this bundle. Use at your own risk. (Looking for a maintainer!)
+
 # Teal bundle
 
 ## What is it?
